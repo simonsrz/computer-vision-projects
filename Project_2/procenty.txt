@@ -1,0 +1,60 @@
+HARACLIC:
+
+aluminium_foilpercentage:  90.74074074074075
+brown_breadpercentage:  48.78048780487805
+corduroypercentage:  70.703125
+corkpercentage:  83.79629629629629
+cottonpercentage:  81.71206225680933
+crackerpercentage:  58.8235294117647
+linenpercentage:  85.60311284046692
+orange_peelpercentage:  84.0
+spongepercentage:  68.29268292682927
+styrofoampercentage:  63.41463414634146
+woolpercentage:  79.62962962962963
+Percentage correct:  79.6875
+
+
+HISTO:
+
+aluminium_foilpercentage:  99.53703703703704
+brown_breadpercentage:  78.04878048780488
+corduroypercentage:  95.3125
+corkpercentage:  92.5925925925926
+cottonpercentage:  96.88715953307393
+crackerpercentage:  76.47058823529412
+linenpercentage:  92.99610894941634
+orange_peelpercentage:  100.0
+spongepercentage:  82.92682926829268
+styrofoampercentage:  100.0
+woolpercentage:  99.07407407407408
+Percentage correct:  94.9375
+
+CONNECTED:
+
+aluminium_foilpercentage:  99.53703703703704
+brown_breadpercentage:  90.2439024390244
+corduroypercentage:  92.578125
+corkpercentage:  91.20370370370371
+cottonpercentage:  96.88715953307393
+crackerpercentage:  88.23529411764706
+linenpercentage:  93.3852140077821
+orange_peelpercentage:  100.0
+spongepercentage:  85.36585365853658
+styrofoampercentage:  100.0
+woolpercentage:  99.07407407407408
+Percentage correct:  95.0
+
+LBP:
+
+aluminium_foilpercentage:  94.44444444444444
+brown_breadpercentage:  90.2439024390244
+corduroypercentage:  74.609375
+corkpercentage:  92.5925925925926
+cottonpercentage:  82.1011673151751
+crackerpercentage:  58.8235294117647
+linenpercentage:  80.93385214007782
+orange_peelpercentage:  72.0
+spongepercentage:  97.5609756097561
+styrofoampercentage:  87.8048780487805
+woolpercentage:  75.0
+Percentage correct:  82.9375
